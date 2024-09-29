@@ -32,7 +32,7 @@
 // console.log(typeof a);
 // console.log(typeof(a));
 
-function All(){
+// function All(){
 
-}
-console.log(typeof All);
+// }
+// console.log(typeof All);
