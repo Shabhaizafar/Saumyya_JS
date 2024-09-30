@@ -121,10 +121,3 @@ AND :
 */
 
 ///////////////////////////////////////////
-//    - Switch statement.
-//    - While loop.
-//    - While loop examples.
-//    - For loop.
-//    - For loop examples.
-//    - Break and continue keyword.
-//    - Do while loop.
