@@ -59,6 +59,3 @@
 // Arr1.forEach((element,index) => {
 //     console.log(element,index);
 // });
-
-
-//    - Array destructuring.
