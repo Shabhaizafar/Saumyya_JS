@@ -63,22 +63,27 @@
 // - Computed properties.   []
 
 // {
-//  Name : "Raj",
-//  Email : "R@gmail.com"
-// }
-var key1 = "Name";
-var key2 = "Email";
-
-var value1 = "Raj";
-var value2  = "R@gmail.com";
-const p1 = {
-    [key1] : value1,
-    key2 : value2
-};
-console.log(p1);
-
-
-/*
+//   Name : "Raj",
+//   Email : "R@gmail.com"
+// // }
+// var key1 = "Name";
+// var key2 = "Email";
+// var value1 = "Raj";
+// var value2  = "R@gmail.com";
+// const p1 = {
+//     [key1] : value1,
+//     key2 : value2
+// };           
+//   //   
+/*   //
+//
+*/  //
+//            // console.log(p1); 
+//            // console.log(p1); 
+//            // console.log(p1); 
+//            // 
+//            //   
+/*          
 Iterate objects : 
 Car Object : 
     Model 
